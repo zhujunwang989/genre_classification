@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification/mlruns/0/308555e40a834ab69368288d2ad24deb/artifacts
+end_time: 1751404052696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 308555e40a834ab69368288d2ad24deb
+run_name: amazing-crane-176
+run_uuid: 308555e40a834ab69368288d2ad24deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751403978342
+status: 4
+tags: []
+user_id: zhujunwang

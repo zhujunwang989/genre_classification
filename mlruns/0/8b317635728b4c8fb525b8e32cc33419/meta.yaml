@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification/mlruns/0/8b317635728b4c8fb525b8e32cc33419/artifacts
+end_time: 1751405118798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b317635728b4c8fb525b8e32cc33419
+run_name: stately-finch-140
+run_uuid: 8b317635728b4c8fb525b8e32cc33419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751405060724
+status: 4
+tags: []
+user_id: zhujunwang

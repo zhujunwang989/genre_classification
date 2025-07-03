@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification/mlruns/0/01b4aa0ce2314531a6e3d18b731a4880/artifacts
+end_time: 1751403197970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01b4aa0ce2314531a6e3d18b731a4880
+run_name: adventurous-hawk-798
+run_uuid: 01b4aa0ce2314531a6e3d18b731a4880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751402949363
+status: 4
+tags: []
+user_id: zhujunwang

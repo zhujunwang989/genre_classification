@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification/mlruns/0/ecca8461f53f4cc198c17b17a58e3557/artifacts
+end_time: 1751568205957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecca8461f53f4cc198c17b17a58e3557
+run_name: awesome-koi-111
+run_uuid: ecca8461f53f4cc198c17b17a58e3557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751568064542
+status: 3
+tags: []
+user_id: zhujunwang

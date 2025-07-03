@@ -12,8 +12,8 @@ def go(config: DictConfig):
     # convert DictConfig to a regular dict so W&B can use it
     wandb.config = OmegaConf.to_container(
          config,
-         resolve=True,
-         throw_on_missing=True
+         resolve=True#,
+         # throw_on_missing=True
     )
 
     # Set W&B env variables- so All runs will be grouped under this name

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification/mlruns/0/910f0b3df8eb4dcab6a3d13de48802ab/artifacts
+end_time: 1751403461170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 910f0b3df8eb4dcab6a3d13de48802ab
+run_name: aged-moth-780
+run_uuid: 910f0b3df8eb4dcab6a3d13de48802ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751403457484
+status: 4
+tags: []
+user_id: zhujunwang

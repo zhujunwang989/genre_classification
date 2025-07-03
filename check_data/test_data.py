@@ -111,10 +111,22 @@ def test_kolmogorov_smirnov(data, ks_alpha):
 
     for col in columns:
 
-        ts, p_value = scipy.stats.ks_2samp(sample1[col], sample2[col])
+        # ts, p_value = scipy.stats.ks_2samp(sample1[col], sample2[col])
 
         # NOTE: as always, the p-value should be interpreted as the probability of
         # obtaining a test statistic (TS) equal or more extreme that the one we got
         # by chance, when the null hypothesis is true. If this probability is not
         # large enough, this dataset should be looked at carefully, hence we fail
-        assert p_value > alpha_prime
+
+        # assert p_value > alpha_prime
+
+        s1 = sample1[col].dropna()
+        s2 = sample2[col].dropna()
+
+        if s1.empty or s2.empty:
+            raise ValueError(f"Column '{col}' has no valid data in one of the datasets.")
+
+        ts, p_value = scipy.stats.ks_2samp(s1, s2)
+
+        assert p_value > alpha_prime, f"KS test failed for column '{col}': p={p_value}, alpha'={alpha_prime}"
+

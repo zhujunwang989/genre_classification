@@ -1,0 +1,50 @@
+{
+    "os": "macOS-15.3.2-x86_64-i386-64bit",
+    "python": "3.10.6",
+    "heartbeatAt": "2025-07-02T00:14:11.722725",
+    "startedAt": "2025-07-02T00:14:10.948879",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "/Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification/evaluate/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/zhujunwang989/genre_classification.git",
+        "commit": "d3c71c13fc2158201c852759ae0dce21ada0b160"
+    },
+    "email": "zwang94@mail.depaul.edu",
+    "root": "/Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification",
+    "host": "ZhujundeMacBook-Pro-2.local",
+    "username": "zhujunwang",
+    "executable": "/Users/zhujunwang/anaconda3/envs/mlflow-8b501fc7815c39ac35bc11c552a7bf657d25c65d/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 14.734729766845703
+        }
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

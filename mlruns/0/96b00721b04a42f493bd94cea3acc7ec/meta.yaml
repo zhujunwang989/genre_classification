@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification/mlruns/0/96b00721b04a42f493bd94cea3acc7ec/artifacts
+end_time: 1751403774685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96b00721b04a42f493bd94cea3acc7ec
+run_name: sedate-swan-155
+run_uuid: 96b00721b04a42f493bd94cea3acc7ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751403530396
+status: 4
+tags: []
+user_id: zhujunwang

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification/mlruns/0/3d6d1a4e48a9407e9f5391a9569d0dfd/artifacts
+end_time: 1751415278178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d6d1a4e48a9407e9f5391a9569d0dfd
+run_name: marvelous-flea-106
+run_uuid: 3d6d1a4e48a9407e9f5391a9569d0dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751415089033
+status: 3
+tags: []
+user_id: zhujunwang

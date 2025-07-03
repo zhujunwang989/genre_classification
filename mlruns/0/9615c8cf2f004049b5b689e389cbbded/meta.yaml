@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhujunwang/PycharmProjects/UdacityProject1/genre_classification/mlruns/0/9615c8cf2f004049b5b689e389cbbded/artifacts
+end_time: 1751405304295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9615c8cf2f004049b5b689e389cbbded
+run_uuid: 9615c8cf2f004049b5b689e389cbbded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751405288972
+status: 3
+tags: []
+user_id: zhujunwang
